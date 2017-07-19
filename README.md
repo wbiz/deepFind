@@ -3,18 +3,18 @@ find item(s) in an array or objects recursively.
 
 ## Installation
 ```
-npm install deepFind --save
+npm install deep_find --save
 ```
 or
 ```
-bower install deepFind --save
+bower install deep_find --save
 ```
 
 ## Usage
 
 ```
-var deepFind = require('deepFind').find;
-var deepFindAll = require('deepFind').findAll;
+var deepFind = require('deep_find').find;
+var deepFindAll = require('deep_find').findAll;
 var obj = deepFind(value, data, options);
 var obj = deepFindAll(value, data, options);
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "deep-find",
+  "name": "deep_find",
   "version": "1.0.0",
   "description": "find item(s) in an array or objects recursively",
   "main": "index.js",
